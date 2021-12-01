@@ -1,4 +1,4 @@
-package testego
+package teste_go
 
 import "log"
 
