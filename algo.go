@@ -2,6 +2,6 @@ package testego
 
 import "log"
 
-func teste() {
+func Teste() {
 	log.Println("testei")
 }
